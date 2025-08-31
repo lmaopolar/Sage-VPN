@@ -1,0 +1,8 @@
+[Interface]
+Address = 10.0.0.1/24
+ListenPort = 51820
+PrivateKey = WAozy/Fp3HTWebv8f02ovAdfC7wezvEFSQIUtgLQqko=
+
+[Peer]
+PublicKey = 1sJ7dR/sx2s8tdr0sh45LPjtgtRF3yOojm3cvmqVGA0=
+AllowedIPs = 10.0.0.2/32
